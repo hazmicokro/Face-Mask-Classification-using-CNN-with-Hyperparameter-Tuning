@@ -6,7 +6,7 @@ Author : Hazmi Cokro
 Dataset : https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 
 2 Different Model Dataset : \
-[x] - Imbalance
+- [x] Imbalance
 - Train : 3200
 - Valid :
 - Test :
